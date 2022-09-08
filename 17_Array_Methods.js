@@ -33,7 +33,7 @@ console.log(d)
 console.log("\n")
 
 // push()
-// - adds element to the original array
+// - adds element to the original array from end
 num.push(68)
 console.log(d)
 console.log(num)
