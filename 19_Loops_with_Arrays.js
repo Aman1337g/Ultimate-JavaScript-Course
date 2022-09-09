@@ -15,6 +15,7 @@ arr.forEach((value , index , array) => {
   // function logic
 });
 */
+// calls a function , once for each array element
 
 arr.forEach((element) => {
   console.log(element * element)
