@@ -9,22 +9,24 @@ console.log("\n")
 
 // using forEach() loop
 // As it is clear from its name , applies to each element in array
+// could take 3 arguments -
+/*
+arr.forEach((value , index , array) => {
+  // function logic
+});
+*/
+
 arr.forEach((element) => {
   console.log(element * element)
 })
 // another way
-console.log("\n")
+/*
 let square = (element) => {
   console.log(element * element)
-  // return element * element
 }
 arr.forEach(square)
-// let num = []
-// console.log(num)
-
-// let r = num.splice(arr.forEach(square))
-// console.log(r)
 console.log("\n")
+*/
 
 // using Array.from()
 // used to create an array from any other object
