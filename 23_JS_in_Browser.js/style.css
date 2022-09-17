@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-left: 2rem;
+  }
+  
+  body {
+    background: red;
+  }
+  
+  div {
+    font-size: 1.2rem;
+    margin-left: 1.1rem;
+    margin-right: 1.1rem;
+  }
+  
+  p {
+    margin-left: 1.2rem;
+  }
+  
+  .tools {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+  }
